@@ -1,4 +1,8 @@
+constants.js
+firebase-config.jsx
+
 # Logs
+utils/
 logs
 *.log
 npm-debug.log*
