@@ -1,11 +1,7 @@
-constants.js
-firebase-config.jsx
-
-constants.js
-firebase-config.js
+utils/constants.js
+utils/firebase-config.jsx
 
 # Logs
-
 logs
 *.log
 npm-debug.log*
